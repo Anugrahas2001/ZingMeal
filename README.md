@@ -74,11 +74,11 @@ cd ZingMeal-Node
 3. Install the necessary dependencies:
 npm install
 4. Configure your environment variables: Create a .env file in the root directory with the following:
-   PORT=5000
-DATABASE_URL=your_postgresql_database_url
-JWT_SECRET=your_jwt_secret
-RAZORPAY_KEY_ID=your_razorpay_key_id
-RAZORPAY_KEY_SECRET=your_razorpay_key_secret
+- PORT=5000
+- DATABASE_URL=your_postgresql_database_url
+- JWT_SECRET=your_jwt_secret
+- RAZORPAY_KEY_ID=your_razorpay_key_id
+- RAZORPAY_KEY_SECRET=your_razorpay_key_secret
 5. Start the backend server:
    npm run dev
 ### Frontend Setup
